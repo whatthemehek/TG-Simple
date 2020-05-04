@@ -8,13 +8,22 @@ h1 {
   font-size: 60px;
 }
 
-.banner {
+h1 .banner {
     padding: 60px;
     text-align: center;
     background: #003d31;
     color: white;
     font-size: 60px;
 }
+
+h2 .banner {
+  padding: 60px;
+  text-align: center;
+  background: #003d31;
+  color: white;
+  font-size: 30px;
+}
+
 .title {
   color: teal;
 }
